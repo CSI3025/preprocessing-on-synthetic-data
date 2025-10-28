@@ -1,5 +1,6 @@
 # preprocessing-on-synthetic-data
 This is a mini Group Project Notebook by **SARATHY B - 22MID0255** and **RAGUL RAJ V P - 22MID0013**.
+Video Explaination of the Pre-processing with Steps -> https://drive.google.com/file/d/1J76JiKWy74OCP6V-rgeN6dauR0v1AMZC/view?usp=sharing
 
 # 🧠 Employee Promotion Classification
 
