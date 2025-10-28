@@ -1,5 +1,5 @@
 # preprocessing-on-synthetic-data
-A classification model to predict whether an employee is likely to be promoted based on various features such as age, experience, job role, salary, and performance score. The notebook includes data preprocessing, exploratory data analysis (EDA), feature engineering, and model building using popular machine learning algorithms.
+This is a mini Group Project Notebook by **SARATHY B - 22MID0255** and **RAGUL RAJ V P - 22MID0013**.
 
 # 🧠 Employee Promotion Classification
 
@@ -27,6 +27,11 @@ The workflow covers **data preprocessing**, **exploratory data analysis (EDA)**,
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
 - **Environment:** Jupyter Notebook  
 
+---
+
+Note: - Use only CLASSIFICATION Notebook
+      - The others are for you guys to implement preprocessing
+      
 ---
 
 ### 🚀 How to Run
